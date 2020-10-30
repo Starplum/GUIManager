@@ -1,0 +1,6 @@
+main: network.starplum.GUIManager
+name: GUI
+version: 1
+
+author: iDevMC
+description: §8* §fHome made API for making the job of GUIs easier.
