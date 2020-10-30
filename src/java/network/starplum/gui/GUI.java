@@ -29,5 +29,6 @@ public abstract class GUI {
 	public abstract void inventoryInteractEvent(InventoryInteractEvent inventoryInteractEvent);
 	
 	public abstract void closeInventory(HumanEntity humanEntity);
+	public abstract void openInventory(HumanEntity humanEntity);
 	
 }
